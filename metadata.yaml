@@ -1,0 +1,39 @@
+_repo: Gunman-s-Reckoning_10066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Frederick, John
+    - Faust, Frederick Schiller
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: A gunman agrees to do a rich man's dirty work in this classic Western
+  from one of the genre's early mastersDonnegan is not proud of his past. But when
+  words ran dry and matters could only be settled with a gun, he never hesitated to
+  make things right. Now fate has led him to The Corner, a wide-open gold-mining town
+  in the valley where two rivers join. An invalid by the name of Colonel Macon wants
+  Donnegan to settle a long-standing land claim that's been taken over by outlaws.
+  Charmed by the colonel's beautiful daughter, the gunman agrees. But nothing is as
+  it seems in The Corner, where the lin.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Outlaws -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: Gunman's Reckoning
+url: http://www.gutenberg.org/ebooks/10066
