@@ -1,5 +1,8 @@
 _repo: Gunman-s-Reckoning_10066
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brand, Max
@@ -19,6 +22,8 @@ description: A gunman agrees to do a rich man's dirty work in this classic Weste
   Donnegan to settle a long-standing land claim that's been taken over by outlaws.
   Charmed by the colonel's beautiful daughter, the gunman agrees. But nothing is as
   it seems in The Corner, where the lin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10066#Gunman-s-Reckoning
 gutenberg_bookshelf: Western
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
